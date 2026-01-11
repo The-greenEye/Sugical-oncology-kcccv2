@@ -23,5 +23,6 @@ function Header() {
                 <div className="icon-menu text-black text-2xl"></div>
             </div>
         </nav>
+    <marquee direction="ltr" scrollamount="smooth" bgcolor="transparent"> للجراحات التخصصية هو مركز رائد في منطقة الشرق الأوسط يقدم خدمات متكاملة لمرضى السرطان، ويتميز بوجود نخبة من الاستشاريين المتخصصين وأحدث التجهيزات الطبية. يسعى المركز دائماً لاستضافة المؤتمرات وورش العمل العالمية لرفع مستوى الخدمات الصحية في دولة الكويت. </marquee>
     );
 }
